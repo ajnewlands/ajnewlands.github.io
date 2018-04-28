@@ -1,4 +1,4 @@
-# ajnewlands.github.io
+# Assorted software hosted here
 
 [PingTune](https://ajnewlands.github.io/PingTune)
 
